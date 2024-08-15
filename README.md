@@ -2,12 +2,15 @@
   <h3>🚀I enjoys bringing Ideas to Life through code.🚀</h3>
   <hr/>
   <h3>👨‍💻 My Interests 👨‍💻</h3>
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-  <li>Developing Full-Stack Web Applications</li>
-  <li>Exploring New Programming Languages</li>
-  <li>Improving Software Performance</li>
-  <li>Building Scalable Systems</li>
-</ul>
+<p align="center">
+- Developing Full-Stack Web Applications - 
+  <br>
+- Exploring New Programming Languages - 
+  <br>
+- Improving Software Performance - 
+  <br>
+- Building Scalable Systems - 
+</p>
   <img height="200" style="margin:20px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
 </div>
 

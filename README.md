@@ -126,6 +126,9 @@
 
 <img align='center' height='160'  src='https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif' alt='Coding GIF'>
 <br>
+<b align="center">
+  Let’s connect if you’re excited about exploring new tech trends, discussing innovative solutions, or simply sharing insights. Together, we can create the next big thing! 🚀💬
+</b>
 <p align="center"> 
 
  <a href="https://www.linkedin.com/in/ramin-sharifi-17b3791ba/" alt="https://www.linkedin.com/in/ramin-sharifi-17b3791ba/">
